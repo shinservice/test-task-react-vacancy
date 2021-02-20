@@ -1,6 +1,6 @@
 ## Методы:
 
-`BASE_URL` = https://www.shinservice.ru/api/auto
+`BASE_URL` = https://devtest.shinservice.ru/api/auto
 
 #### Получение производителей авто
 GET /brands/
